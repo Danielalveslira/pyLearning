@@ -7,6 +7,7 @@ print('Is a Digit? {}'.format(anything.isdigit()))
 print('Is LowerCase? {}'.format(anything.islower()))
 print('Is UpperCase? {}'.format(anything.isupper()))
 print('Is numeric? {}'.format(anything.isnumeric()))
+print('Is capitalized? {}'.format(anything.istitle()))
 
 # s.isalnum() → True if non-empty and all chars are letters or digits. ✅
 
